@@ -5,6 +5,8 @@
  *          Discussion Section: 22
 
  *         Assignment: Lab #2  Exercise #3
+ 
+ *         goal: using potentiometer read values and have lights flicker in a pattern which correspond to that specificly assigned potentiometer value
     
 
  *         I acknowledge all content contained herein, excluding template or example code, is my own original work.
