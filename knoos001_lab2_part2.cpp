@@ -5,6 +5,8 @@
  *          Discussion Section: 22
 
  *         Assignment: Lab #2  Exercise #2
+ 
+ *         goal: control speed of light transition with corresponding button push
 
  *         I acknowledge all content contained herein, excluding template or example code, is my own original work.
 
